@@ -1,5 +1,5 @@
-IyBnaC1kZW1vLWNvbnRlbnQKQSBEZW1vIHJlcG8gZm9yIE9wZW5zdGF4IENv
-bnRlbnQK
+# gh-demo
+A Demo repo for Openstax Content
 
 ---
 Adding PR for
