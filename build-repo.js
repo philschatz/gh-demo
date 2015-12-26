@@ -43,7 +43,7 @@ var CONFIG = [
   // {title: 'CC1.06 - CC Widget Mechanics / Infrastructure (CNX/Tutor interaction)', stories: [
   //   ]
   // },
-  {title: 'CC1.07 - Student Registration, Enrollment, Login, Authentication ', stories: [
+  {title: 'CC1.07 - Student Registration, Enrollment, Login, Auth', stories: [
       {title: "[CC1.07.001] Write /api/enroll endpoint - os5.1"},
       {title: "[CC1.07.002] As a student, I can use an instructor provided registration code to register for a class - os5.1"},
       {title: "[CC1.07.003] As a student, I want to know my registration was successful"},
