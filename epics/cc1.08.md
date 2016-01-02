@@ -1,4 +1,8 @@
-# CC Epic 08 - Students performing assignments   [Other CC Epics](https://docs.google.com/document/d/19Uj6OXQqli7taJT3DitFHNdRSni3dgNv0DM6Xy_8c20/edit#)
+---
+layout: page
+title: "CC Epic 08 - Students performing assignments"
+---
+
 
 **TABLE OF CONTENTS**
 
