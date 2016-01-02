@@ -1,0 +1,6 @@
+# Settings for gh-pages
+
+markdown:         redcarpet
+highlighter:      pygments
+
+permalink:        pretty
